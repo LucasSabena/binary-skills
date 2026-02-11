@@ -1,0 +1,9 @@
+# Downloaded/third-party skills (installed via npx skills add)
+.agents/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Node
+node_modules/
