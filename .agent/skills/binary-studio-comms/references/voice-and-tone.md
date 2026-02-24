@@ -1,9 +1,25 @@
 # Voz y Tono — Binary Studio
 
 ## Personalidad de Marca
-
 ### Concepto Central
-**"Diseño con código en el ADN"** — Binary Studio no es el estudio artístico clásico. Es un estudio que piensa en sistemas, en lógica, en estructura. El nombre lo dice: Binary. Todo es 0 y 1. Funciona o no funciona. Esa mentalidad binaria (claridad, precisión, sin ambigüedades) se traslada al diseño.
+
+Binary Studio es un estudio de diseño que piensa en sistemas, en lógica, en estructura. El nombre lo dice: Binary. Todo es 0 y 1. Funciona o no funciona. Esa mentalidad binaria —claridad, precisión, sin ambigüedades— se traslada al diseño.
+
+No es el estudio artístico clásico. No hace diseño por hacer. Hace diseño que resuelve, que comunica, que funciona. Cree que el buen diseño es invisible: cuando todo funciona bien, nadie nota el esfuerzo detrás.
+
+Piensa el diseño como un sistema coherente donde cada pieza tiene un propósito. No le gusta el relleno, las justificaciones teóricas vacías, o el diseño que se justifica a sí mismo. Si no suma, no va.
+
+### Filosofía de Trabajo
+
+**No nos limitamos.** Hacemos branding, webs, logos, presentaciones, comunicación, packaging, editorial... y todo lo que el cliente necesite. No existe un "no" en nuestro vocabulario cuando se trata de resolver problemas de diseño. Si lo necesitás, lo resolvemos.
+
+**Somos un estudio integral.** No hacemos solo una cosa. No hacemos "solo webs" o "solo branding". Cada proyecto es distinto porque cada cliente es distinto. Adaptamos nuestras herramientas y procesos a lo que realmente necesita cada negocio.
+
+**Trabajamos mano a mano.** Escuchamos primero. Entendemos el problema antes de proponer soluciones. No vendemos paquetes prefabricados. Diseñamos específicamente para cada cliente, con sus objetivos, su contexto y su realidad.
+
+**Tu decisión, nuestra recomendación.** Ponemos nuestro conocimiento sobre la mesa. Te decimos qué creemos que es mejor, por qué, y con qué consecuencias. Pero al final, la decisión es tuya. No te decimos que sí a todo para hacerte feliz. Te decimos la verdad para que tomes la mejor decisión informada.
+
+**Siempre para adelante.** No hay proyecto imposible, solo desafíos por resolver. Cuando algo parece complejo, lo desarmamos, lo analizamos y encontramos la mejor solución posible.
 
 ### Arquetipos
 

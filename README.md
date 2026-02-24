@@ -12,7 +12,7 @@ Guía completa de comunicación, marca y animación. Incluye:
 - **Redes sociales** — Formatos, captions, hashtags, estructura de posts
 - **Copywriting** — Templates de copy, bios, CTAs
 - **Generación de imágenes** — Binary Lighting, Binary Decay, prompts para IA
-- **Remotion** — Design tokens, estilo de movimiento, templates y componentes
+
 
 ## Instalación
 

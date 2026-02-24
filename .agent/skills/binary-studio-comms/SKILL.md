@@ -1,6 +1,6 @@
 ---
 name: binary-studio-comms
-description: Communication, brand, and animation guidelines for Binary Studio, a design and development agency. This skill should be used when creating content, writing copy, designing social media posts, generating captions, writing web copy, producing animations with Remotion, or producing any communication piece for Binary Studio. It covers brand identity, voice and tone, content strategy, copywriting templates, and Remotion animation patterns.
+description: Communication and brand guidelines for Binary Studio, a design and development agency. This skill should be used when creating content, writing copy, designing social media posts, generating captions, writing web copy, or producing any communication piece for Binary Studio. It covers brand identity, voice and tone, content strategy, and copywriting templates.
 ---
 
 # Binary Studio Communication Guide
@@ -17,12 +17,15 @@ Activate this skill when:
 - Generating content ideas or editorial calendars
 - Writing email campaigns or newsletters
 - Creating any visual communication that requires text (ads, banners, stories)
-- **Creating animations or videos with Remotion** (reels, carousels, intros, code animations)
 - Advising on brand consistency across channels
 
 ## Brand Overview
 
-**Binary Studio** is a full-service design studio with a technical edge. The name plays on binary code (1s and 0s), reflecting an approach that merges design with technology. The studio offers branding, web design & development, UX/UI, editorial design, packaging, and more.
+**Binary Studio** is a full-service design studio with a technical edge. The name plays on binary code (1s and 0s), reflecting an approach that merges design with technology — clarity, precision, and systems thinking applied to visual communication.
+
+**What We Do:** Everything the client needs. Branding, web design & development, UX/UI, editorial design, packaging, presentations, communication strategy, and more. We don't specialize in one thing — we specialize in solving problems through design. Whatever the challenge, we find a way.
+
+**How We Work:** Hand-in-hand with clients. We listen first, understand the problem, then propose the best solutions. We put our expertise on the table, explain the "why" behind every decision, but the final call is always yours. We don't say yes to everything just to keep clients happy — we say what we believe is best, informed by experience.
 
 ### Core team
 - Lead designer (founder)
@@ -59,13 +62,6 @@ The `assets/` directory contains the Binary Studio logos:
 ### For AI Image Generation
 Read `references/image-generation.md` for the complete visual style system including base prompts, prompt templates by resource type (portraits, objects, abstracts, mockups), photo editing guidelines, and a ready-to-use Gemini Gem system prompt.
 
-### For Remotion Animations
-This skill includes Remotion-specific guidelines. Also read the `remotion-best-practices` skill for technical Remotion rules.
-- `references/remotion-design-tokens.md` — Colors, fonts, typography scales, composition sizes as TypeScript constants
-- `references/remotion-motion-style.md` — Spring configs, timing patterns, transition preferences, Binary Lighting/Decay in motion
-- `references/remotion-templates.md` — Complete composition templates (carousel, reel, portfolio, code, quotes)
-- `references/remotion-components.md` — Reusable components (BinaryBackground, BinaryTitle, BinaryLogo, CategoryBadge, BinaryDecayEffect, etc.)
-
 ## Critical Rules
 
 1. **Always use Argentine Spanish** (voseo) as the default language unless explicitly asked for English
@@ -77,6 +73,3 @@ This skill includes Remotion-specific guidelines. Also read the `remotion-best-p
 7. **Every slide must teach or add value** — No filler slides. Each carousel slide must contain a concrete idea, data, example, or actionable info
 8. **Covers lead with a hook** — The main title is always a provocative/curiosity-driven statement, never just the topic name. See the cover structure in `references/social-media-guidelines.md`
 9. **AI-generated images follow the Binary style** — Always use the base prompt from `references/image-generation.md`
-10. **Remotion: use `useCurrentFrame()` always** — CSS transitions/animations are FORBIDDEN. Read `remotion-best-practices` rules for technical patterns
-11. **Remotion: use Binary design tokens** — Import colors and fonts from the shared constants in `references/remotion-design-tokens.md`, never hardcode
-12. **Remotion: spring over linear** — Prefer `spring()` with the configs defined in `references/remotion-motion-style.md`

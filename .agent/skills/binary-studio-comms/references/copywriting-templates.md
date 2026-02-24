@@ -26,11 +26,11 @@ Binary Studio — Diseño y desarrollo web | Branding | UX/UI | Hacemos que las 
 
 ### LinkedIn About
 ```
-Binary Studio es un estudio de diseño y desarrollo que trabaja con marcas que quieren verse bien y funcionar mejor.
+Binary Studio es un estudio de diseño integral que resuelve lo que el cliente necesite. Branding, webs, logos, presentaciones, comunicación, packaging, editorial... lo que sea. No nos limitamos a una especialidad.
 
-Hacemos branding, diseño y desarrollo web, UX/UI, editorial y packaging. Y lo hacemos con una mentalidad técnica: cada decisión de diseño tiene una razón detrás.
+Trabajamos mano a mano con cada cliente: escuchamos primero, entendemos el problema, y proponemos la mejor solución. Ponemos nuestro conocimiento sobre la mesa, explicamos el porqué de cada decisión, pero al final la elección es tuya. No te decimos que sí a todo para hacerte feliz — te decimos lo que creemos que es mejor, informado por experiencia.
 
-Nuestros clientes son PYMEs, startups y empresas que decidieron dejar de improvisar su imagen. Si tu marca necesita una actualización, hablemos.
+Nuestros clientes son PYMEs, startups y empresas que decidieron dejar de improvisar su imagen. Si necesitás diseño que funcione, hablemos.
 ```
 
 ---
